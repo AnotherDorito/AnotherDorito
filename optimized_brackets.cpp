@@ -87,7 +87,7 @@ if(a.empty())
     cout<<"TAK";
     return 0;
 }
-//wrzucamy stack samych nawiasów otwieraj¹cych
+//wrzucamy stack samych nawiasÃ³w otwierajÂ¹cych
 braverse(a);
 return 0;
 }
