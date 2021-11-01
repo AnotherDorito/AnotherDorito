@@ -1,5 +1,3 @@
-Hi all, I'm AnotherDorito. I'm a dedicated Pastafarian, and am looking forward to my stripper factories later in life.
+This is all of my work from the school year 2021/2022, being my first year of middle school. 
 
-I'm currently learning C++, or at least attempting to. It seems pretty fun so far.
-
-That's all.
+This is here mainly for documentation purposes.
